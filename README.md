@@ -1,14 +1,15 @@
 # 💫 About Me:
 👋 Hi, I'm 
 ### Touseeq Ali Hassan
-Cloud DevOps, SRE & Platform Engineer with 6+ years of experience building scalable, secure, and cost-efficient cloud infrastructure — from startups to Fortune 500 enterprises.<br><be>
+Cloud DevOps, SRE & Platform Engineer with 6+ years of experience building scalable, secure, and cost-efficient cloud infrastructure — from startups to Fortune 500 enterprises.<br>
 ### 💼 Current Role
-Lead Cloud Platform Engineer @ S&P Global<br>🚀 Previously: Lead DevOps @ Automotive AI <br><br><br><be>
+Lead Cloud Platform Engineer @ S&P Global<br>🚀 Previously: Lead DevOps @ Automotive AI <br>
 ### 🔧 What I Love Doing
-<br>🚀 Cloud-native DevOps (AWS, Azure, GCP)<br><br>⚙️ Kubernetes, GitOps, CI/CD, Terraform<br><br>🔐 DevSecOps, Compliance as Code<br><br>📊 Observability, Cost Optimization<br><br>💡 Automating everything<br><br><br>
+🚀 Cloud-native DevOps (AWS, Azure, GCP)<br>⚙️ Kubernetes, GitOps, CI/CD, Terraform<br>🔐 DevSecOps, Compliance as Code<br>📊 Observability, Cost Optimization<br>💡 Automating everything<br>
 ### 🌱 Open to contributing to:
-<br><br>DevOps & SRE tools<br><br>GitOps (FluxCD, ArgoCD)<br><br>Kubernetes & Infrastructure as Code projects<br><br>
-### 🧴 Fun Fact<br>Fragrance nerd. I collect niche perfumes with the same passion I apply to clean infrastructure 😄<br><br>
+DevOps & SRE tools<br>GitOps (FluxCD, ArgoCD)<br>Kubernetes & Infrastructure as Code projects<br>
+### 🧴 Fun Fact
+Fragrance nerd. I collect niche perfumes with the same passion I apply to clean infrastructure 😄<br><br>
 
 
 ## 🌐 Socials:
